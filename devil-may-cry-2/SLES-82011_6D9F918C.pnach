@@ -1,0 +1,35 @@
+[Infinite DT]
+description=Infinite Devil Trigger.
+author=CountNull10
+patch=1,EE,005A7B0E,short,0f00
+
+[Shin Majin]
+description=Unlock the power of the Son of Sparda.
+author=CountNull10
+patch=1,EE,005A7B0E,short,0f00
+patch=1,EE,005A77E0,short,0100
+
+[DMC1 Dante]
+description=Active this cheat in the main menu. Works only in NG+.
+author=CountNull10
+patch=1,EE,005ABBE9,byte,03
+
+[Trish]
+description=Active this cheat in the main menu. Works only in NG+.
+author=CountNull10
+patch=1,EE,005ABBE9,byte,02
+
+[All Weapons]
+description=Unlock all weapons.
+author=CountNull10
+patch=1,EE,005A7CF0,short,070f
+
+[1 million orbs]
+description=Get 1 million red orbs.
+author=CountNull10
+patch=1,EE,005a8b28,word,000F4240
+
+[Infinite Jumps]
+description=Just... jumps!
+author=CountNull10
+patch=1,EE,005A7B32,short,0101
