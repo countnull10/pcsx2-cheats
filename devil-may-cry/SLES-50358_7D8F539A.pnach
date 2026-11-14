@@ -1,0 +1,93 @@
+[100 million red orbs]
+description=Money money money!
+author=CountNull10
+patch=1,EE,D058980C,extended,05000000
+patch=1,EE,00742924,extended,009a
+patch=1,EE,00742927,extended,00eb
+patch=1,EE,10742925,extended,c9ff
+patch=1,EE,0058980C,extended,00FF
+
+[All abilities]
+description=Unlocks all skills for Alastor and Ifrit.
+author=CountNull10
+patch=1,EE,1074291a,extended,7ffe
+
+[Devil Skin]
+description=Forces Alastor's skin. Prevents pausing the game and interacting with objects.
+author=CountNull10
+patch=1,EE,005c79f1,byte,01
+
+[Flight]
+description=Use both sticks during Alastor's flight mode.
+author=CountNull10
+patch=1,EE,D07406D7,extended,020100FF
+patch=1,EE,30400000,extended,005C66D4
+patch=1,EE,00020000,extended,00000000
+patch=1,EE,D07406D7,extended,02010000
+patch=1,EE,30500000,extended,005C66D4
+patch=1,EE,00020000,extended,00000000
+
+[Full Life Bar]
+description=Maxes out the life bar.
+author=CountNull10
+patch=1,EE,D058980D,extended,04000000
+patch=1,EE,005C7656,extended,cf
+patch=1,EE,005C7657,extended,0b
+patch=1,EE,009dece8,extended,ff
+patch=1,EE,0058980D,extended,00FF
+
+[Immortal]
+description=Don't be afraid to die.
+author=CountNull10
+patch=1,EE,005C7656,extended,cf
+patch=1,EE,005C7657,extended,0b
+
+[Infinite Devil Trigger]
+description=Unlimited devil power.
+author=CountNull10
+patch=1,EE,205C79F2,extended,03E803E8
+patch=1,EE,205C79F6,extended,03E803E8
+
+[Sparda Devil Trigger]
+description=Embrace the power of Sparda.
+author=CountNull10
+patch=1,EE,D05C7A54,extended,04010001
+patch=1,EE,D0742314,extended,05110016
+patch=1,EE,005C79F0,extended,00010003
+patch=1,EE,005C79F1,extended,00000000
+
+[Weapons&Items]
+description=Get all weapons and items.
+author=CountNull10
+patch=1,EE,D058980E,extended,20000000
+patch=1,EE,0058980E,extended,00FF
+patch=1,EE,0074252B,extended,0020
+patch=1,EE,20742540,extended,00010000
+patch=1,EE,20742544,extended,00010100
+patch=1,EE,20742548,extended,00010200
+patch=1,EE,2074254C,extended,00010300
+patch=1,EE,20742550,extended,00010400
+patch=1,EE,20742554,extended,00010500
+patch=1,EE,20742558,extended,00010600
+patch=1,EE,2074255C,extended,00010700
+patch=1,EE,20742560,extended,00010800
+patch=1,EE,20742564,extended,00011002
+patch=1,EE,20742568,extended,00030E02
+patch=1,EE,2074256C,extended,00010004
+patch=1,EE,20742570,extended,00010604
+patch=1,EE,20742574,extended,00010104
+patch=1,EE,20742578,extended,00010304
+patch=1,EE,2074257C,extended,00010504
+patch=1,EE,20742580,extended,00010404
+patch=1,EE,20742584,extended,00010205
+patch=1,EE,20742588,extended,00010505
+patch=1,EE,2074258C,extended,00010F02
+patch=1,EE,20742590,extended,00011102
+patch=1,EE,20742594,extended,00010101
+patch=1,EE,20742598,extended,00010605
+patch=1,EE,2074259C,extended,00010705
+patch=1,EE,207425A0,extended,00010306
+patch=1,EE,207425A4,extended,00010606
+patch=1,EE,207425A8,extended,00010106
+patch=1,EE,207425AC,extended,00010206
+patch=1,EE,207425B0,extended,00010406
